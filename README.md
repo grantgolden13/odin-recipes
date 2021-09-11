@@ -1,1 +1,1 @@
-# odin-recipes
+Odin recipes is a small project geared towards building basic Web Development skills through practice with HTML and CSS.
